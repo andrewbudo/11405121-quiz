@@ -8,5 +8,5 @@ int main(){
 	int gramms;
 	cin >> pannels >> a >> b;
 	gramms = ((a*b)*2)*pannels;
-	cout << gramms << endl;
+	cout << gramms << endl
 }
